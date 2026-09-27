@@ -1,0 +1,19 @@
+{
+  "wheel_id": 300,
+  "structure": "umbrella",
+  "slug": "sydneytrees-net-151",
+  "project": "tree-removal-sydney-dd9ac58e4e5f8fd7a2bfb30736ddd20efd498af9",
+  "parent_t1_ref": "sydneytrees.net-003",
+  "node_role": "buffer",
+  "money_target": "sydneytrees.net.au",
+  "primary_kw": "tree removal sydney",
+  "intended_url": "https://sitesau.github.io/sydneytrees-net-151/",
+  "writeback_nonce": "ba15d03891c413c1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/tree-removal-sydney-003/",
+      "anchor": "tree removal sydney",
+      "rel": "follow"
+    }
+  ]
+}
